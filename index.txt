@@ -167,4 +167,50 @@
       width="300px "
     ></iframe>
 
+=====================================
+    inline vs block level tags
+
+    inline tags are tags which dont occupy complete space in that line
+    block level tags are the tags which occupy complete space in that line
+    --------------------------------
+    <h1>1st line</h1>
+    <h1>which line</h1>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur
+      aliquid, cupiditate nam vero neque sequi?
+    </p>
+    <video height="200px" src="video.mp4"></video>
+    <video src="video.mp4" height="200px"></video>
+    <video height="50px" src="video.mp4"></video>
+    <video src="video.mp4" height="200px"></video>
+    <audio src="audio.mp3 " controls width="50px"></audio>
+    <audio src="audio.mp3 " controls width="50px"></audio>
+    <audio src="audio.mp3 " controls width="50px"></audio>
+    <audio src="audio.mp3 " controls width="50px"></audio>
+    <a href="">Facebook</a>
+    <a href="">Google</a>
+
+--------------------------------------------------
+
+ordered lists and unordered list
+
+list of items to be displayed in a order -- ol
+
+   <ol>
+      <li>Take vessel</li>
+      <li>put 1 cup water</li>
+      <li>boil water add maggi</li>
+      <li>serve fter 2 minutes</li>
+    </ol>
+    <ul>
+      <li>Take vessel</li>
+      <li>put 1 cup water</li>
+      <li>boil water add maggi</li>
+      <li>serve fter 2 minutes</li>
+    </ul>
+
+    ol , ul are block level tags
+
+    ==========================================================
+
     
