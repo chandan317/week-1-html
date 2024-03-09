@@ -1,0 +1,170 @@
+// h1 to h6 to display text headings in the browser.
+
+    <h1>Largeeer</h1>
+    <h2>medium</h2>
+    <h3>betterr</h3>
+    <h4>hello</h4>
+    <h5>hii</h5>
+    <h6>smaaler</h6>
+
+// display multiple sentenx=ces we shold use paragraph tags
+
+ <b> </b> bold tags important word.
+ <i> </i> italic tags for slant words
+ <u>  </u> underline tag. 
+
+   <p>
+      <b>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel doloribus
+        expedita alias impedit accusamus animi ea atque, rem consectetur magnam
+        earum maxime quas voluptate eveniet.
+      </b>
+    </p>
+    <p>
+      <b><u>HTML</u></b
+      ><i> is noot easy.</i> <b><u>CSS</u> </b><i> is not eassy.</i>
+    </p>
+
+    // image tag to display image in the browser
+
+       <img src="mobile.jpg" height="300px" width="300px" />
+    <img
+      src="https://m.media-amazon.com/images/I/710Y-NFojSL._SL1500_.jpg"
+      height="300px "
+      width="300px"
+      alt="Galaxy S24"
+    />
+
+    // links --- every websites will have links
+
+      <a href="https://www.cricbuzz.com/" target="_blank">Cricbuzz</a>
+
+    <a href="mobile.html" target="_blank">MObile</a>
+
+    table
+
+     <table border="1px" cellspacing="0px">
+      <thead>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Country</th>
+      </thead>
+      <tr>
+        <td>Chandan</td>
+        <td>25</td>
+        <td>India</td>
+      </tr>
+      <tr>
+        <td>Virat</td>
+        <td>36</td>
+        <td>India</td>
+      </tr>
+      <tr>
+        <td>Rohit</td>
+        <td>37</td>
+        <td>India</td>
+      </tr>
+    </table>
+    row span
+    col span
+
+     <table border="1px">
+      <thead>
+        <th>Products</th>
+        <th>Flavors</th>
+      </thead>
+      <tr>
+        <td rowspan="3">Milk</td>
+        <td>Almond</td>
+      </tr>
+      <tr>
+        <td>CHocolate</td>
+      </tr>
+      <tr>
+        <td>Cashew</td>
+      </tr>
+      <tr>
+        <td colspan="2 ">These are exclusiv flavors</td>
+      </tr>
+    </table>
+
+    ------------------
+    <table border="1px">
+      <tr>
+        <td rowspan="2"></td>
+        <td colspan="2">Average</td>
+
+        <td rowspan="2">RedEyes</td>
+      </tr>
+      <tr>
+        <td>Height</td>
+        <td>weight</td>
+      </tr>
+      <tr>
+        <td>Males</td>
+        <td>1.9</td>
+        <td>0.003</td>
+        <td>40%</td>
+      </tr>
+      <tr>
+        <td>Females</td>
+        <td>1.7</td>
+        <td>0.002</td>
+        <td>43%</td>
+      </tr>
+    </table>
+    <table border="1px">
+      <tr>
+        <td rowspan="2"></td>
+        <td colspan="2">Average</td>
+
+        <td rowspan="2">RedEyes</td>
+      </tr>
+      <tr>
+        <td>Height</td>
+        <td>Weight</td>
+      </tr>
+      <tr>
+        <td>Males</td>
+        <td>1.9</td>
+        <td>0.003</td>
+        <td>43%</td>
+      </tr>
+      <tr>
+        <td>Female</td>
+        <td>1.7</td>
+        <td>0.005</td>
+        <td>40%</td>
+      </tr>
+    </table>
+  ============================================
+
+     <video src="video.mp4" height="250px" controls></video>
+    <audio src="audio.mp3" controls></audio>
+
+    https://youtu.be/PZvXoREcjKk?si=ISUkCpWFLJR1eMtu
+
+
+    https://youtu.be/XtNOneYYr8U?si=LeF0pWhKm4vlBQGH
+
+    https://youtu.be/7cBSr4dGRZY?si=EUAOJZWkuGuqOwJu
+
+
+  <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/7cBSr4dGRZY?si=EUAOJZWkuGuqOwJu?start=100"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+    <iframe
+      src="https://www.youtube.com/embed/PZvXoREcjKk?si=ISUkCpWFLJR1eMtu?start=120"
+      frameborder="0"
+      allowfullscreen
+      height="250px"
+      width="300px "
+    ></iframe>
+
+    
