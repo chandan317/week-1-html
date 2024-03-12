@@ -213,4 +213,30 @@ list of items to be displayed in a order -- ol
 
     ==========================================================
 
-    
+      <form action="">
+      enter the username:
+      <input type="text" /><br />
+      <br />
+      enter your mobile number
+      <input type="number" /><br />
+      <br />
+      enter your password
+      <input type="password" />
+      <br />
+      <br />
+      <input type="checkbox" /> I agree terms and conditions.
+      <br />
+      <br />
+      <input type="radio" name="" id="" />Male <input type="radio" />Female
+
+      <br />
+      <br />
+      <input type="file" />
+      <br /><br />
+      <input type="date" />
+      <br /><br />
+      <input type="time" />
+      <input type="hidden" />
+      <br /><br />
+      <input type="button" value="Submit" />
+    </form>
